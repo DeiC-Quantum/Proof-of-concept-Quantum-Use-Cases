@@ -1,4 +1,4 @@
-# Proof-of-concept-Quantum-Use-Cases
+# Proof-of-concept Quantum Use Cases
 
 As part of the Q-Access initiative, DeiC’s Quantum Department is developing a series of proof-of-concept quantum use case to make applying quantum algorithms to real-world problems more accessible to Danish academia and industry.
 
